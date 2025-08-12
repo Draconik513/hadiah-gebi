@@ -40,7 +40,7 @@ export default function LoveNotes() {
           </p>
 
           <p>
-            As we celebrate our 1 year and 7 months, I look forward to all the memories we'll create together.
+            As we celebrate your 18th, I look forward to all the memories we'll create together.
             I promise to cherish you, support you, and love you more with each passing day.
             No matter what life brings, I'll always be by your side. 🤝
           </p>
